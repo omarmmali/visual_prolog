@@ -1,0 +1,5 @@
+#! /bin/bash
+#this script is supposed to be localed in /usr/local/bin/
+
+
+#TODO: launch /usr/local/share/visual_prolog/visual_prolog.exe using wine
