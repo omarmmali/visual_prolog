@@ -12,7 +12,7 @@
 
 #TODO: make sure the installation was successful
 
-#TODO: create a symlink to /home/<username>/.wine/drive_c/VIP52/BIN/WIN/32/Vip.exe in /usr/local/share/visualprolog/
+#TODO: create a symlink from /home/<username>/.wine/drive_c/VIP52/BIN/WIN/32/Vip.exe to /usr/local/share/visualprolog/visual_prolog.exe
 
 #TODO: copy the desktop file into /usr/local/share/Applications/
 
